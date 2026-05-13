@@ -1,0 +1,17 @@
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/IVR_Integration_Service.Infrastructure.csproj.AssemblyReference.cache
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/IVR_Integration_Service.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/IVR_Integration_Service.Infrastructure.AssemblyInfoInputs.cache
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/IVR_Integration_Service.Infrastructure.AssemblyInfo.cs
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/IVR_Integration_Service.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/bin/Debug/net10.0/IVR_Integration_Service.Infrastructure.deps.json
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/bin/Debug/net10.0/IVR_Integration_Service.Infrastructure.dll
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/bin/Debug/net10.0/IVR_Integration_Service.Infrastructure.pdb
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/bin/Debug/net10.0/IVR_Integration_Service.Application.dll
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/bin/Debug/net10.0/IVR_Integration_Service.Domain.dll
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/bin/Debug/net10.0/IVR_Integration_Service.Domain.pdb
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/bin/Debug/net10.0/IVR_Integration_Service.Application.pdb
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/IVR_Inte.A6A796A7.Up2Date
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/IVR_Integration_Service.Infrastructure.dll
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/refint/IVR_Integration_Service.Infrastructure.dll
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/IVR_Integration_Service.Infrastructure.pdb
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Infrastructure/obj/Debug/net10.0/ref/IVR_Integration_Service.Infrastructure.dll

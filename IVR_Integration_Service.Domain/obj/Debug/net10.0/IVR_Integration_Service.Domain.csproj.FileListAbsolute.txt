@@ -1,0 +1,11 @@
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/bin/Debug/net10.0/IVR_Integration_Service.Domain.deps.json
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/bin/Debug/net10.0/IVR_Integration_Service.Domain.dll
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/bin/Debug/net10.0/IVR_Integration_Service.Domain.pdb
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/obj/Debug/net10.0/IVR_Integration_Service.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/obj/Debug/net10.0/IVR_Integration_Service.Domain.AssemblyInfoInputs.cache
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/obj/Debug/net10.0/IVR_Integration_Service.Domain.AssemblyInfo.cs
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/obj/Debug/net10.0/IVR_Integration_Service.Domain.csproj.CoreCompileInputs.cache
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/obj/Debug/net10.0/IVR_Integration_Service.Domain.dll
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/obj/Debug/net10.0/refint/IVR_Integration_Service.Domain.dll
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/obj/Debug/net10.0/IVR_Integration_Service.Domain.pdb
+/Users/mustafa/Profiles/NAFITH/IVR_Integration_Service/IVR_Integration_Service.Domain/obj/Debug/net10.0/ref/IVR_Integration_Service.Domain.dll

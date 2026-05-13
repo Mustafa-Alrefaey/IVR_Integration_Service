@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="IVR_Integration_Service.API/IVR_Integration_Service.API.csproj" />
+  <Project Path="IVR_Integration_Service.Application/IVR_Integration_Service.Application.csproj" />
+  <Project Path="IVR_Integration_Service.Domain/IVR_Integration_Service.Domain.csproj" />
+  <Project Path="IVR_Integration_Service.Infrastructure/IVR_Integration_Service.Infrastructure.csproj" />
+</Solution>
